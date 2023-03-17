@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomek</h1>
-<h3 align="center">A passionate iOS developer from Poland</h3>
-<h3 align="center">I'm also registered with the Employment Office. Interested in hiring me for an internship/apprenticeship? Contact me by e-mail! </h3>
+<h3 align="center">A passionate Junior iOS developer from Poland</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/ogrodowski-tomasz/WaterMe" target="_blank" rel="noreferrer"> **WaterMe** </a> 
 
