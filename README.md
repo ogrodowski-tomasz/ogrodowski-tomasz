@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomek</h1>
-<h3 align="center">A passionate Junior iOS developer from Poland</h3>
+<h3 align="center">A passionate iOS developer from Poland</h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **TCA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ogrodowski-tomasz?tab=repositories](https://github.com/ogrodowski-tomasz?tab=repositories)
 
