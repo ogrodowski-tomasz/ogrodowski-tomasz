@@ -7,6 +7,9 @@
   - **MV Pattern**: [SwiftUIMovies](https://github.com/ogrodowski-tomasz/SwiftUIMovies) - Built with SwiftUI, Firebase, and SwiftData
   - **TCA**: [TCAMovies](https://github.com/ogrodowski-tomasz/TCAMovies) - Built with The Composable Architecture
 
+ UIKit:
+ - **MVVM-C**: [UIKitMovies](https://github.com/ogrodowski-tomasz/UIKitMovies) - Built with UIKit, Realm
+
 - 👨‍💻 All of my projects are available at [https://github.com/ogrodowski-tomasz?tab=repositories](https://github.com/ogrodowski-tomasz?tab=repositories)
 
 - ⚡ Fun fact: **I love Formula 1, WWE**
