@@ -3,12 +3,14 @@
 
 - 🌱 I'm currently learning **TCA** and **Flutter** to gain different perspectives on mobile development
 
-- 🎬 I'm currently creating multiple movie discovery apps using different architectures to explore various SwiftUI patterns:
+- 🎬 I'm currently creating multiple movie discovery apps using different architectures to explore various patterns:
+
+- 🎬 SwiftUI:
   - **MV Pattern**: [SwiftUIMovies](https://github.com/ogrodowski-tomasz/SwiftUIMovies) - Built with SwiftUI, Firebase, and SwiftData
   - **TCA**: [TCAMovies](https://github.com/ogrodowski-tomasz/TCAMovies) - Built with The Composable Architecture
 
- UIKit:
- - **MVVM-C**: [UIKitMovies](https://github.com/ogrodowski-tomasz/UIKitMovies) - Built with UIKit, Realm
+- 🎬 UIKit:
+  - **MVVM-C**: [UIKitMovies](https://github.com/ogrodowski-tomasz/UIKitMovies) - Built with UIKit, Realm
 
 - 👨‍💻 All of my projects are available at [https://github.com/ogrodowski-tomasz?tab=repositories](https://github.com/ogrodowski-tomasz?tab=repositories)
 
